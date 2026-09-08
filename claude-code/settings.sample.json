@@ -1,0 +1,23 @@
+{
+  "// note": "Merge these keys into ~/.claude/settings.json — this is not a full settings file.",
+
+  "theme": "custom:neo-tokyo",
+
+  "statusLine": {
+    "type": "command",
+    "command": "node C:/Users/YOU/.claude/bin/statusline.js"
+  },
+
+  "spinnerVerbs": {
+    "mode": "replace",
+    "verbs": [
+      "Awakening", "Surfacing", "Roaring", "Stomping", "Irradiating",
+      "Charging", "Breaching", "Thundering", "Radiating", "Mutating",
+      "Escalating", "Prowling", "Triangulating", "Decoding", "Overclocking",
+      "Neon-drifting", "Rewiring", "Synthesizing", "Transmitting", "Calibrating",
+      "Amplifying", "Resonating", "Igniting", "Cascading", "Reactor-spinning",
+      "Skyline-scanning", "Atomic-breathing", "Kaiju-tracking", "Rift-walking",
+      "Storm-gathering"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+# Source artwork is not redistributed — supply your own (see README)
+*.jpg
+*.jpeg
+*.png
+!docs/*.png
+
+# Editor / OS cruft
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Local statusline scratch
+statusline-last.json
+statusline-probe.sh

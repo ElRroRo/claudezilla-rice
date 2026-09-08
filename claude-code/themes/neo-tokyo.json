@@ -1,0 +1,75 @@
+{
+  "name": "Neo-Tokyo",
+  "base": "dark",
+  "overrides": {
+    "clawd_body": "rgb(255,0,135)",
+    "clawd_background": "rgb(8,9,15)",
+
+    "claude": "rgb(255,0,135)",
+    "claudeShimmer": "rgb(255,140,205)",
+    "briefLabelClaude": "rgb(255,0,135)",
+    "briefLabelYou": "rgb(0,240,255)",
+
+    "promptBorder": "rgb(255,0,135)",
+    "promptBorderShimmer": "rgb(255,145,205)",
+    "bashBorder": "rgb(255,0,135)",
+
+    "autoAccept": "rgb(255,0,135)",
+    "autoAcceptShimmer": "rgb(255,150,210)",
+    "skill": "rgb(176,38,255)",
+    "merged": "rgb(176,38,255)",
+    "effortUltra": "rgb(176,38,255)",
+
+    "suggestion": "rgb(255,0,135)",
+    "remember": "rgb(255,0,135)",
+
+    "permission": "rgb(0,240,255)",
+    "permissionShimmer": "rgb(150,250,255)",
+    "claudeBlue_FOR_SYSTEM_SPINNER": "rgb(0,240,255)",
+    "claudeBlueShimmer_FOR_SYSTEM_SPINNER": "rgb(150,250,255)",
+    "planMode": "rgb(0,240,190)",
+    "ide": "rgb(0,240,255)",
+    "professionalBlue": "rgb(0,240,255)",
+    "background": "rgb(0,240,255)",
+
+    "rate_limit_fill": "rgb(255,0,135)",
+    "rate_limit_empty": "rgb(72,26,58)",
+
+    "text": "rgb(240,244,248)",
+    "inverseText": "rgb(8,9,15)",
+    "inactive": "rgb(140,148,170)",
+    "inactiveShimmer": "rgb(190,196,214)",
+    "subtle": "rgb(73,84,112)",
+
+    "success": "rgb(0,255,102)",
+    "error": "rgb(255,23,68)",
+    "warning": "rgb(255,230,0)",
+    "warningShimmer": "rgb(255,245,140)",
+    "chromeYellow": "rgb(255,230,0)",
+    "fastMode": "rgb(255,230,0)",
+    "fastModeShimmer": "rgb(255,245,140)",
+
+    "diffAdded": "rgb(20,80,45)",
+    "diffRemoved": "rgb(96,20,52)",
+    "diffAddedDimmed": "rgb(52,80,60)",
+    "diffRemovedDimmed": "rgb(88,58,72)",
+    "diffAddedWord": "rgb(0,255,102)",
+    "diffRemovedWord": "rgb(255,0,135)",
+
+    "selectionBg": "rgb(61,20,76)",
+    "userMessageBackground": "rgb(28,20,34)",
+    "userMessageBackgroundHover": "rgb(42,28,48)",
+    "composerSidebarBackground": "rgb(22,17,27)",
+    "bashMessageBackgroundColor": "rgb(30,16,28)",
+    "memoryBackgroundColor": "rgb(16,26,34)",
+
+    "red_FOR_SUBAGENTS_ONLY": "rgb(255,23,68)",
+    "blue_FOR_SUBAGENTS_ONLY": "rgb(0,240,255)",
+    "green_FOR_SUBAGENTS_ONLY": "rgb(0,255,102)",
+    "yellow_FOR_SUBAGENTS_ONLY": "rgb(255,230,0)",
+    "purple_FOR_SUBAGENTS_ONLY": "rgb(176,38,255)",
+    "orange_FOR_SUBAGENTS_ONLY": "rgb(255,120,20)",
+    "pink_FOR_SUBAGENTS_ONLY": "rgb(255,0,135)",
+    "cyan_FOR_SUBAGENTS_ONLY": "rgb(0,240,255)"
+  }
+}
