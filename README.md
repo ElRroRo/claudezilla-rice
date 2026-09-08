@@ -102,8 +102,8 @@ Copy `oh-my-posh/*.json` → `~/.config/oh-my-posh/`. The profile picks
 
 ## Regenerating the Godzilla art
 
-The source image is **not** included (it's a still from a copyrighted film —
-supply your own). `ansiart.py` renders an image to a truecolor half-block `.ans`
+The source image (`fastfetch/godzilla-source.jpg`, 1024×1024) is included.
+`ansiart.py` renders an image to a truecolor half-block `.ans`
 at a given column width; `compose.py` stitches the caption rule underneath.
 Both expect their input filenames/crop boxes edited at the top of the file for
 your source. Rough flow:
@@ -132,9 +132,9 @@ match the `config.jsonc` logo dimensions, or update both.
 
 ## Credits
 
-- Godzilla / ゴジラ is a trademark and character owned by Toho Co., Ltd. This
-  repo ships only low-resolution terminal ANSI renders as personal
-  customization; no source imagery is redistributed.
+- Godzilla / ゴジラ is a trademark and character owned by Toho Co., Ltd. The
+  bundled artwork is used here purely as non-commercial personal terminal
+  customization. No affiliation or endorsement. If Toho asks, it comes down.
 - Palette and layout are original. Prompt built on
   [oh-my-posh](https://ohmyposh.dev/).
 

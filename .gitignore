@@ -1,9 +1,3 @@
-# Source artwork is not redistributed — supply your own (see README)
-*.jpg
-*.jpeg
-*.png
-!docs/*.png
-
 # Editor / OS cruft
 *.bak
 *.swp
