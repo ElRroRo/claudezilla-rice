@@ -3,7 +3,7 @@
   "base": "dark",
   "overrides": {
     "clawd_body": "rgb(255,0,135)",
-    "clawd_background": "rgb(8,9,15)",
+    "clawd_background": "rgb(26,27,38)",
 
     "claude": "rgb(255,0,135)",
     "claudeShimmer": "rgb(255,140,205)",
@@ -36,7 +36,7 @@
     "rate_limit_empty": "rgb(72,26,58)",
 
     "text": "rgb(240,244,248)",
-    "inverseText": "rgb(8,9,15)",
+    "inverseText": "rgb(26,27,38)",
     "inactive": "rgb(140,148,170)",
     "inactiveShimmer": "rgb(190,196,214)",
     "subtle": "rgb(73,84,112)",

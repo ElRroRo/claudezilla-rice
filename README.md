@@ -24,7 +24,7 @@ _Add your own to `docs/` — e.g. `docs/fastfetch.png`, `docs/claude-statusline.
 | Laser red       | `#FF1744`  | `255, 23, 68`    |
 | Deep slate      | `#495470`  | `73, 84, 112`    |
 | Ice white       | `#F0F4F8`  | `240, 244, 248`  |
-| Void background | `#08090F`  | `8, 9, 15`       |
+| Void background | `#1A1B26`  | `26, 27, 38`     |
 
 ## What's in here
 
